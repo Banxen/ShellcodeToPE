@@ -1,2 +1,2 @@
 # ShellcodeToPE
-Generate PE file for the input Shellcode file for quick debugging. Use only for 32 bit shellcode.
+Generate PE for the input shellcode for quick debugging. Use only for 32 bit shellcode.
